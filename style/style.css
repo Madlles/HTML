@@ -1,0 +1,103 @@
+body {
+    width: 1440px;
+    height: 8000px;
+    margin: 0 auto;
+}
+
+.container {
+    width: 1440px;
+    height: 80px;
+    background-color: rgb(218, 131, 131);
+    padding: 0%;
+    margin: 0%;
+}
+
+.logo
+{
+    width: 100px;
+    height: 50px;
+    float: left;
+    margin-left: 10px;
+
+
+}
+
+.buttonOne
+{
+    position: absolute;
+    left: 25%;
+    top: 10px;
+    background-color: rgb(218, 131, 131);
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.buttonTwo
+{
+    position: absolute;
+    left: 35%;
+    top: 10px;
+    background-color: rgb(218, 131, 131);
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.buttonThree
+{
+    position: absolute;
+    left: 45%;
+    top: 10px;
+    background-color: rgb(218, 131, 131);
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.buttonFour
+{
+    position: absolute;
+    left: 55%;
+    top: 10px;
+    background-color: rgb(218, 131, 131);
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
