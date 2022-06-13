@@ -1,11 +1,9 @@
 body {
-    width: 1440px;
-    height: 8000px;
     margin: 0 auto;
+    background-image: url(Image/background.jpg); 
 }
 
 .container {
-    width: 1440px;
     height: 80px;
     background-color: rgb(218, 131, 131);
     padding: 0%;
@@ -14,90 +12,163 @@ body {
 
 .logo
 {
-    width: 100px;
-    height: 50px;
     float: left;
-    margin-left: 10px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
 
+.menu {
+    float: right;
+    margin-top: 35px;
+    margin-right: 100px;
+}
 
+.shop {
+    float: right;
+    margin-top: 30px;
+    margin-right: 30px;
+}
+
+.session
+{
+    float: right;
+    margin-top: 30px;
+    margin-right: 30px;
+}
+
+.button
+{
+    background-image: url(/style/Image/Button.png);
 }
 
 .buttonOne
 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: absolute;
     left: 25%;
-    top: 10px;
     background-color: rgb(218, 131, 131);
     color: white;
-    font-size: 16px;
-    padding: 12px 24px;
+    font-size: 12px;
+    padding: 32px 24px;
     border: none;
     cursor: pointer;
     border-radius: 5px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    margin: 4px 2px;
     cursor: pointer;
     transition-duration: 0.4s;
 }
 
 .buttonTwo
 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: absolute;
     left: 35%;
-    top: 10px;
     background-color: rgb(218, 131, 131);
     color: white;
-    font-size: 16px;
-    padding: 12px 24px;
+    font-size: 12px;
+    padding: 32px 24px;
     border: none;
     cursor: pointer;
     border-radius: 5px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    margin: 4px 2px;
     cursor: pointer;
     transition-duration: 0.4s;
 }
 
 .buttonThree
 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: absolute;
     left: 45%;
-    top: 10px;
     background-color: rgb(218, 131, 131);
     color: white;
-    font-size: 16px;
-    padding: 12px 24px;
+    font-size: 12px;
+    padding: 32px 24px;
     border: none;
     cursor: pointer;
     border-radius: 5px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    margin: 4px 2px;
     cursor: pointer;
     transition-duration: 0.4s;
 }
 
 .buttonFour
 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: absolute;
     left: 55%;
-    top: 10px;
     background-color: rgb(218, 131, 131);
     color: white;
-    font-size: 16px;
-    padding: 12px 24px;
+    font-size: 12px;
+    padding: 32px 24px;
     border: none;
     cursor: pointer;
     border-radius: 5px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    margin: 4px 2px;
     cursor: pointer;
     transition-duration: 0.4s;
 }
+
+.buttonFive
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    left: 70%;
+    background-color: rgb(218, 131, 131);
+    color: white;
+    font-size: 12px;
+    padding: 32px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    
+}
+
+.buttonOne:hover {
+    background-color: rgb(247, 160, 160);
+    color: white;
+}
+
+.buttonTwo:hover {
+    background-color: rgb(247, 160, 160);
+    color: white;
+}
+
+.buttonThree:hover {
+    background-color: rgb(247, 160, 160);
+    color: white;
+}
+
+.buttonFour:hover {
+    background-color: rgb(247, 160, 160);
+    color: white;
+}
+
+.buttonFive:hover {
+    background-color: rgb(247, 160, 160);
+    color: white;
+}
+
+.menu:hover
+{
+    background-color: rgb(247, 160, 160);
+    color: white;
+}
+
+
+
+
+
