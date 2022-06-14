@@ -1,4 +1,5 @@
 body {
+    height: 8000px;
     margin: 0 auto;
     background-image: url(Image/background.jpg); 
 }
@@ -45,11 +46,11 @@ body {
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: absolute;
+    top: 30px;
     left: 25%;
     background-color: rgb(218, 131, 131);
     color: white;
     font-size: 12px;
-    padding: 32px 24px;
     border: none;
     cursor: pointer;
     border-radius: 5px;
@@ -64,11 +65,11 @@ body {
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: absolute;
+    top: 30px;
     left: 35%;
     background-color: rgb(218, 131, 131);
     color: white;
     font-size: 12px;
-    padding: 32px 24px;
     border: none;
     cursor: pointer;
     border-radius: 5px;
@@ -83,11 +84,11 @@ body {
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: absolute;
+    top: 30px;
     left: 45%;
     background-color: rgb(218, 131, 131);
     color: white;
     font-size: 12px;
-    padding: 32px 24px;
     border: none;
     cursor: pointer;
     border-radius: 5px;
@@ -102,11 +103,11 @@ body {
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: absolute;
+    top: 30px;
     left: 55%;
     background-color: rgb(218, 131, 131);
     color: white;
     font-size: 12px;
-    padding: 32px 24px;
     border: none;
     cursor: pointer;
     border-radius: 5px;
@@ -121,19 +122,19 @@ body {
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: absolute;
+    top: 30px;
     left: 70%;
     background-color: rgb(218, 131, 131);
     color: white;
     font-size: 12px;
-    padding: 32px 24px;
-    border: none;
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     cursor: pointer;
     transition-duration: 0.4s;
+    border-color: white;
     
 }
 
@@ -168,6 +169,62 @@ body {
     color: white;
 }
 
+.shop:hover
+{
+    background-color: rgb(247, 160, 160);
+    color: white;
+}
+
+.session:hover
+{
+    background-color: rgb(247, 160, 160);
+    color: white;
+}
+
+
+.buttonSix
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(218, 131, 131);
+    color: white;
+    font-size: 12px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    transition-duration: 0.4s;
+}
+
+.buttonSix:hover
+{
+    background-color: rgb(247, 160, 160);
+    color: white;
+}
+
+.blockMain
+{
+    width: 100%;
+    display: inline-block;
+    height: fit-content;
+}
+
+.blockOne
+{
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    height: 100vh;
+    vertical-align: middle;
+
+}
+
+.blockTwo
+{
+    width: 50%;
+    float: right;
+
+}
 
 
 
