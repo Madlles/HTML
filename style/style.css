@@ -2,6 +2,13 @@ body {
     height: 8000px;
     margin: 0 auto;
     background-image: url(Image/background.jpg); 
+    color: #765a33;
+    font-family: 'Josefin Slab', serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    text-decoration: none;
 }
 
 .container {
@@ -228,13 +235,14 @@ body {
     float: right;
 }
 
-.image
+/* первый */
+.imageeee
 {
     float: right;
     width: 40vw;
 }
 
-.title
+.titleeee
 {
     text-align: center;
     margin-top: 20%;
@@ -244,19 +252,19 @@ body {
     margin: -40px 0 0;
     min-height: 265px;
     margin-top: 10px;
-    padding-left: 250px;
+    padding-left: 350px;
     position: relative;
     z-index: 189;
     background-color: black;
   }
 
 
-  .col-1 {
+  .coll-1 {
     float: left;
     position: relative;
     width: 159px;
   }
-  .title-1 {
+  .titlee-1 {
     color: #ffffff;
     font-family: 'Playfair Display', serif;
     font-size: 48.21233px;
@@ -264,7 +272,7 @@ body {
     letter-spacing: 0.025em;
     text-align: center;
   }
-  .text-1 {
+  .textt-1 {
     margin: 6px 0 0;
     color: #ffffff;
     font-family: 'Montserrat Alternates', sans-serif;
@@ -273,13 +281,13 @@ body {
     letter-spacing: 0.015em;
     text-align: center;
   }
-  .col-2 {
+  .coll-2 {
     float: left;
     margin: 0 0 0 167px;
     position: relative;
     width: 159px;
   }
-  .title-2 {
+  .titlee-2 {
     color: #ffffff;
     font-family: 'Playfair Display', serif;
     font-size: 48.21233px;
@@ -287,7 +295,7 @@ body {
     letter-spacing: 0.025em;
     text-align: center;
   }
-  .text-2 {
+  .textt-2 {
     margin: 9px 0 0;
     color: #ffffff;
     font-family: 'Montserrat Alternates', sans-serif;
@@ -296,13 +304,13 @@ body {
     letter-spacing: 0.015em;
     text-align: center;
   }
-  .col-3 {
+  .coll-3 {
     float: left;
     margin: 0 0 0 168px;
     position: relative;
     width: 159px;
   }
-  .title-3 {
+  .titlee-3 {
     color: #ffffff;
     font-family: 'Playfair Display', serif;
     font-size: 48.21233px;
@@ -310,7 +318,7 @@ body {
     letter-spacing: 0.025em;
     text-align: center;
   }
-  .text-3 {
+  .textt-3 {
     margin: 8px 0 0;
     color: #ffffff;
     font-family: 'Montserrat Alternates', sans-serif;
@@ -319,13 +327,13 @@ body {
     letter-spacing: 0.015em;
     text-align: center;
   }
-  .col-4 {
+  .coll-4 {
     float: left;
     margin: 2px 0 0 151px;
     position: relative;
     width: 190px;
   }
-  .title-4 {
+  .titlee-4 {
     color: #ffffff;
     font-family: 'Playfair Display', serif;
     font-size: 48.21233px;
@@ -333,7 +341,7 @@ body {
     letter-spacing: 0.025em;
     text-align: center;
   }
-  .text-4 {
+  .textt-4 {
     margin: 6px 0 0;
     color: #ffffff;
     font-family: 'Montserrat Alternates', sans-serif;
@@ -343,5 +351,517 @@ body {
     text-align: center;
   }
 
+  /* первый */
+
+
+  /* второй */
+
+  .wrapper-10 {
+    height: 715px;
+    margin: 120px auto 0;
+    position: relative;
+    width: 1328px;
+    z-index: 142;
+  }
+  .leaf-2 {
+    left: 50%;
+    position: absolute;
+    top: 0;
+    margin-left: 581px;
+  }
+  .leaf-1 {
+    left: 50%;
+    position: absolute;
+    top: 0;
+    margin-left: -664px;
+  }
+  .col-2 {
+    left: 50%;
+    padding: 307px 14px 18px;
+    position: absolute;
+    top: 244px;
+    width: 294px;
+    background: #e6e3da;
+    -webkit-box-shadow: 0 7px 18px 0 rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0 7px 18px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 7px 18px 0 rgba(0, 0, 0, 0.19); /*drop shadow*/
+    margin-left: 368px;
+  }
+  .heart-3 {
+    display: block;
+    left: 123.5px;
+    margin: 0 auto;
+    position: relative;
+  }
+  .button-3 {
+    height: 25px;
+    margin: 104px 0 0 32px;
+    position: relative;
+    width: 104px;
+    -webkit-border-radius: 12.5px;
+    -moz-border-radius: 12.5px;
+    border-radius: 12.5px;
+    background: #454545;
+  }
+  .col-3 {
+    left: 50%;
+    padding: 307px 14px 18px;
+    position: absolute;
+    top: 244px;
+    width: 294px;
+    background: #e6e3da;
+    -webkit-box-shadow: 0 7px 18px 0 rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0 7px 18px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 7px 18px 0 rgba(0, 0, 0, 0.19); /*drop shadow*/
+    margin-left: 24px;
+  }
+  .heart-3-2 {
+    display: block;
+    left: 123.5px;
+    margin: 0 auto;
+    position: relative;
+  }
+  .button-3-2 {
+    height: 25px;
+    margin: 104px 0 0 32px;
+    position: relative;
+    width: 104px;
+    -webkit-border-radius: 12.5px;
+    -moz-border-radius: 12.5px;
+    border-radius: 12.5px;
+    background: #454545;
+  }
+  .col-4 {
+    left: 50%;
+    padding: 307px 14px 18px;
+    position: absolute;
+    top: 244px;
+    width: 294px;
+    background: #e6e3da;
+    -webkit-box-shadow: 0 7px 18px 0 rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0 7px 18px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 7px 18px 0 rgba(0, 0, 0, 0.19); /*drop shadow*/
+    margin-left: -320px;
+  }
+  .heart-2 {
+    display: block;
+    left: 123.5px;
+    margin: 0 auto;
+    position: relative;
+  }
+  .button-2 {
+    height: 25px;
+    margin: 104px 0 0 32px;
+    position: relative;
+    width: 104px;
+    -webkit-border-radius: 12.5px;
+    -moz-border-radius: 12.5px;
+    border-radius: 12.5px;
+    background: #454545;
+  }
+  .col-5 {
+    left: 50%;
+    padding: 307px 14px 18px;
+    position: absolute;
+    top: 244px;
+    width: 294px;
+    background: #e6e3da;
+    -webkit-box-shadow: 0 7px 18px 0 rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0 7px 18px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 7px 18px 0 rgba(0, 0, 0, 0.19); /*drop shadow*/
+    margin-left: -664px;
+  }
+  .heart-1 {
+    display: block;
+    left: 123.5px;
+    margin: 0 auto;
+    position: relative;
+  }
+  .button-1 {
+    height: 25px;
+    margin: 104px 0 0 29px;
+    position: relative;
+    width: 104px;
+    -webkit-border-radius: 12.5px;
+    -moz-border-radius: 12.5px;
+    border-radius: 12.5px;
+    background: #454545;
+  }
+  .image {
+    left: 50%;
+    position: absolute;
+    top: 244px;
+    width: 1326px;
+    margin-left: -664px;
+  }
+  .image > * {
+    float: left;
+    margin: 0 50px 0 0;
+  }
+  .image > *:last-child {
+    margin-right: 0 !important;
+  }
+  .mask-2 {
+    width: 294px;
+  }
+  .mask-3 {
+    width: 294px;
+  }
+  .mask-4 {
+    width: 294px;
+  }
+  .mask-5 {
+    width: 294px;
+  }
+  .text-8 {
+    left: 50%;
+    position: absolute;
+    top: 22px;
+    width: 1242px;
+    margin-left: -620px;
+  }
+  .title-6 {
+    color: #484a4b;
+    font-family: 'Playfair Display', serif;
+    font-size: 58.33334px;
+    font-weight: bold;
+    letter-spacing: 0.025em;
+    text-align: center;
+  }
+  .subtitle-2 {
+    margin: 13px 0 0;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: bold;
+    text-align: center;
+  }
+  .row-10 {
+    margin: 276px auto 0;
+    position: relative;
+  }
+  .row-10 > * {
+    float: left;
+    margin: 0 134px 0 0;
+  }
+  .row-10 > *:last-child {
+    margin-right: 0 !important;
+  }
+  .col-20 {
+    position: relative;
+    width: 210px;
+  }
+  .produtc-1 {
+    color: #484a4b;
+    font-family: 'Playfair Display', serif;
+    font-size: 29.48091px;
+    font-weight: bold;
+    letter-spacing: 0.025em;
+    text-align: center;
+  }
+  .body-text-2 {
+    margin: 1px 0 0;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 12.5px;
+    font-weight: 600;
+    line-height: 16.66667px;
+    text-align: justify;
+  }
+  .text-9 {
+    margin: 22px 0 0 12px;
+    color: #e6e3da;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 10.09615px;
+    font-weight: 600;
+    letter-spacing: 0.015em;
+    text-align: left;
+  }
+  .col-21 {
+    position: relative;
+    width: 210px;
+  }
+  .produtc-2 {
+    color: #484a4b;
+    font-family: 'Playfair Display', serif;
+    font-size: 29.48091px;
+    font-weight: bold;
+    letter-spacing: 0.025em;
+    text-align: center;
+  }
+  .body-text-3 {
+    margin: 1px 0 0;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 12.5px;
+    font-weight: 600;
+    line-height: 16.66667px;
+    text-align: justify;
+  }
+  .text-10 {
+    margin: 22px 0 0 16px;
+    color: #e6e3da;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 10.09615px;
+    font-weight: 600;
+    letter-spacing: 0.015em;
+    text-align: left;
+  }
+  .col-18 {
+    position: relative;
+    width: 210px;
+  }
+  .produtc-3 {
+    color: #484a4b;
+    font-family: 'Playfair Display', serif;
+    font-size: 29.48091px;
+    font-weight: bold;
+    letter-spacing: 0.025em;
+    text-align: center;
+  }
+  .body-text-4 {
+    margin: 1px 0 0;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 12.5px;
+    font-weight: 600;
+    line-height: 16.66667px;
+    text-align: justify;
+  }
+  .text-11 {
+    margin: 22px 0 0 17px;
+    color: #e6e3da;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 10.09615px;
+    font-weight: 600;
+    letter-spacing: 0.015em;
+    text-align: left;
+  }
+  .col-19 {
+    position: relative;
+    width: 210px;
+  }
+  .produtc-4 {
+    color: #484a4b;
+    font-family: 'Playfair Display', serif;
+    font-size: 29.48091px;
+    font-weight: bold;
+    letter-spacing: 0.025em;
+    text-align: center;
+  }
+  .body-text-5 {
+    margin: 1px 0 0;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 12.5px;
+    font-weight: 600;
+    line-height: 16.66667px;
+    text-align: justify;
+  }
+  .text-12 {
+    margin: 22px 0 0 15px;
+    color: #e6e3da;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 10.09615px;
+    font-weight: 600;
+    letter-spacing: 0.015em;
+    text-align: left;
+  }
+
+.row-2 {
+    margin: 64px 172px 0 450px;
+    position: relative;
+    z-index: 140;
+  }
+  .leaf-3 {
+    float: left;
+    margin: 15px 0 0;
+  }
+  .shape-1 {
+    float: left;
+    margin: 0 0 0 378px;
+  }
+  .shape-2 {
+    float: left;
+    margin: 0 0 0 47px;
+  }
+  .leaf-4 {
+    float: left;
+    margin: 15px 0 0 411px;
+  }
+
+    /* второй */
+
+
+    /* третий */
+
+    .group-4 {
+        margin: 110px 0 0;
+        position: relative;
+        z-index: 120;
+        padding-left: 420px;
+      }
+      .leaf-1-2 {
+        float: right;
+        padding-right: 1810px;
+      }
+      .col-23 {
+        float: left;
+        position: relative;
+        width: 1277px;
+      }
+      .title-7 {
+        margin: 0 373px;
+        color: #484a4b;
+        font-family: 'Playfair Display', serif;
+        font-size: 58.33334px;
+        font-weight: bold;
+        letter-spacing: 0.025em;
+        text-align: left;
+      }
+      .subtitle-3 {
+        margin: 16px 277px 0;
+        font-family: 'Montserrat Alternates', sans-serif;
+        font-weight: bold;
+        text-align: left;
+      }
+      .row-13 {
+        margin: 79px 0 0;
+        position: relative;
+      }
+      .wrapper-16 {
+        float: left;
+        height: 695px;
+        margin: 0 51px 0 0;
+        position: relative;
+        width: 1124px;
+      }
+      .rectangle {
+        height: 353px;
+        left: 50%;
+        position: absolute;
+        top: 0;
+        width: 569px;
+        border: 5px solid #8a6a3e; 
+        margin-left: -7px;
+      }
+      .rectangle-2 {
+        height: 260px;
+        left: 50%;
+        position: absolute;
+        top: 435px;
+        width: 278px;
+        background: #c87e6b;
+        margin-left: -562px;
+      }
+      .image-2 {
+        height: 621px;
+        left: 50%;
+        position: absolute;
+        top: 43px;
+        width: 1059px;
+        background: url(/style/Image/mask_5.png) no-repeat;
+        margin-left: -534px;
+      }
+      .shape-holder {
+        padding: 278px 0 280px;
+        position: relative;
+        background: rgba(61, 61, 61, 0.39);
+      }
+      .cirlce-holder {
+        margin: 0 auto;
+        padding: 18px 0;
+        position: relative;
+        width: 63px;
+        border: 2px solid #e6e3da; 
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        border-radius: 50%;
+      }
+      .play {
+        display: block;
+        margin: 0 auto;
+      }
+      .leaf-2-2 {
+        float: left;
+        margin: 486px 0 0;
+      }
+
+      /* третий */
+
+      .design-3 {
+        margin: 1441px 0 0;
+        min-height: 392px;
+        padding: 0 0 0 62px;
+        position: relative;
+        z-index: 102;
+        background: rgba(219, 192, 110, 0.87);
+      }
+      .leaf-1-3 {
+        float: left;
+        margin: 135px 0 0;
+      }
+      .wrapper-15 {
+        float: left;
+        height: 275px;
+        margin: 73px 0 0 3px;
+        position: relative;
+        width: 415px;
+      }
+      .button-4 {
+        height: 45px;
+        left: 50%;
+        position: absolute;
+        top: 0;
+        width: 274px;
+        -webkit-border-radius: 21.83px;
+        -moz-border-radius: 21.83px;
+        border-radius: 21.83px;
+        background: #424242;
+        margin-left: -135.5px;
+      }
+      .text-13 {
+        left: 50%;
+        position: absolute;
+        top: -30px;
+        width: 415px;
+        z-index: 0;
+        margin-left: -207.5px;
+      }
+      .title-8 {
+        position: relative;
+        z-index: 110;
+        color: #e7e4db;
+        font-family: 'Playfair Display', serif;
+        font-size: 26.69105px;
+        font-weight: bold;
+        letter-spacing: 0.025em;
+        text-align: center;
+        text-transform: uppercase;
+      }
+      .text-14 {
+        margin: 14px 0 0;
+        position: relative;
+        z-index: 109;
+        color: #424242;
+        font-family: 'Montserrat Alternates', sans-serif;
+        font-size: 163.66583px;
+        font-weight: 900;
+        letter-spacing: 0.025em;
+        text-align: center;
+      }
+      .text-15 {
+        margin: -6px 0 0;
+        position: relative;
+        z-index: 108;
+        color: #424242;
+        font-family: 'Montserrat Alternates', sans-serif;
+        font-size: 29.16667px;
+        font-weight: 800;
+        line-height: 29.16667px;
+        text-align: center;
+      }
+      .leaf-2-3 {
+        float: left;
+        margin: 122px 0 0 26px;
+      }
+      .mask-6 {
+        float: right;
+        width: 720px;
+      }
 
 
