@@ -298,7 +298,7 @@ body {
     padding-left: 350px;
     position: relative;
     z-index: 189;
-    background-color: black;
+    background: url(/style/Image/rect_ngulo_2.jpg);
   }
 
 
@@ -1211,11 +1211,8 @@ body {
     background: #454545;
   }
   .leaf-2-6 {
-    display: block;
-    left: 189px;
-    margin: 46px auto 0;
-    position: relative;
-    z-index: 48;
+    display: flex;
+    margin-left: 605px;
   }
   .grupo-9 {
     margin: 42px auto 0;
